@@ -1,7 +1,6 @@
 # sintaxe-emmet-jquery
 Esse codigo simula a sintaxe do Emmet, plugin do sublime text, atom dentre outros.
 As sintaxes que essa pagina que criei aceitam são as seguintes:
-tag tab, para criar uma abertura e fechamento de tag sem nenhum componente
 <ul>
 <li>tag tab, para criar uma tab com abertura e fechamento</li>
 <li>tag[atributo=valor] tab, para criar uma tab com abertura e fechamento e que contenha um atributo</li>
